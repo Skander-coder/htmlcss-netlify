@@ -268,7 +268,12 @@ main .experience .content h3 {
 main .experience .content p {
   margin: 0;
 }
-main .experience .content ul {
+main .experience .content .mission {
+  margin: 2rem 1rem;
+  list-style-type: disc;
+  padding-left: 4rem;
+}
+main .experience .content .competences {
   margin: 2rem 0;
   list-style: circle;
   padding-left: 4rem;
